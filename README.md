@@ -1,2 +1,2 @@
-# react-vite-template
-Template for creating React project using vite
+### Study helper
+Web applications that helps you to organize your study life!
